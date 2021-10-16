@@ -1,0 +1,22 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando101190/kartra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando101190/kartra/issues"
+  },
+  "homepage": "https://github.com/fernando101190/kartra#readme",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  }
+}
