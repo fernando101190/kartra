@@ -3646,3 +3646,8 @@ input:focus, textarea:focus {
 .footerP p:hover{
 	color:#eb8072;
 }
+
+/*Fernando R. , Shugert Team Member modification*/
+.logo{
+	width: 15%;
+}
