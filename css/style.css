@@ -3652,3 +3652,7 @@ input:focus, textarea:focus {
 .logo{
 	width: 15%;
 }
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
