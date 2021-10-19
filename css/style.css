@@ -516,9 +516,10 @@ margin-bottom: 10px;
 
 .intro-box img {
 	max-width:70px;
-	position: absolute;
+	position: relative;
 	left: 0px;
 	line-height: 70px;
+	margin-bottom:20px; 
 }
 
 .intro-box div {
